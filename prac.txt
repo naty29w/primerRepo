@@ -1,0 +1,6 @@
+cd change directory               > dirección
+md make directory                 * todo
+color letra número                tabulador
+cls clear screen                  c:/urers ruta de carpeta
+dir directory                     windows, cmd sistema de comandesr
+echo mensaje del sistemar
